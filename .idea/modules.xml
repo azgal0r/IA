@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IA.iml" filepath="$PROJECT_DIR$/IA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-gradle-plugin/spring-boot-gradle-plugin.iml" filepath="$PROJECT_DIR$/spring-boot-gradle-plugin/spring-boot-gradle-plugin.iml" />
     </modules>
   </component>
 </project>

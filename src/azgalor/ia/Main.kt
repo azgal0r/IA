@@ -5,6 +5,7 @@ import azgalor.ia.pathfinding.dto.Node
 import azgalor.ia.pathfinding.dto.NodeAssociation
 import java.util.*
 
+
 fun main(args: Array<String>) {
     var graph = buildGraph()
 
